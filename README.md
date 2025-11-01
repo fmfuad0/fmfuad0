@@ -27,3 +27,4 @@
 ### 🌐 Connect with me:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/fartin-fuad-bab684343/)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook)](https://www.facebook.com/FMFuadd/)
+[![Email](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook)](fartinfuad@gmail.com)
