@@ -11,7 +11,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=fmfuad0&theme=onedark)
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.com/?user=fmfuad0&theme=github-dark-blue)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fmfuad0&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 
