@@ -2,7 +2,6 @@
 <h3 align="center">Self-learner, Web Developer & Tech Enthusiast</h3>
 
 - 🌱 learning Full Stack web development.
-- 📫 E-mail: *fartinfuad@gmail.com*
 - 🌐 Website: *https://portfolio-fm-fuad.netlify.app*
 
 ---
