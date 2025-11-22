@@ -6,8 +6,6 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fmfuad0&theme=github_dark)
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=fmfuad0&theme=onedark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fmfuad0&theme=radical&hide_border=true)](https://git.io/streak-stats)
